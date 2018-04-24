@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class MinEditDistance {
     public static void main(String[] args){
+
         Scanner in = new Scanner(System.in);
         StringBuilder sb1 = new StringBuilder(in.nextLine());
         StringBuilder sb2 = new StringBuilder(in.nextLine());
